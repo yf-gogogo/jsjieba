@@ -1,0 +1,8 @@
+.idea
+node_modules
+public/build
+configure.js
+logs/app-err-0.log
+logs/app-err-1.log
+logs/app-out-0.log
+logs/app-out-1.log
